@@ -4,7 +4,7 @@
 Tema presupune interogarea unor tabele in Prolog si efectuarea de operatii de Select, Filter, Join etc.
 
 
-RULARE:
+#### RULARE
 
       python3 check_test.py [--hwfile <file_name>.pl]
                             [--testname <test_name>]
